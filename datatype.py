@@ -1,7 +1,4 @@
 
-Kainat Sikandar <kainatawaan33@gmail.com>
-3:32 PM (9 minutes ago)
-to kainatsikandar365
 
 #function
 23,45
@@ -31,3 +28,4 @@ sum3 = value5 + value6
 print("sum3 ans", sum3)
 #adding sum3 values by using function sum
 print("sum3 values by using function sum", sum(24,455))
+git commit -m"these are functions"
